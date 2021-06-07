@@ -1,0 +1,9 @@
+package 第十二章泛型.自定义泛型类;
+
+/**
+ * @author shkstart
+ * @create 2019 上午 11:29
+ */
+//异常类不能声明为泛型类
+//public class MyException<T> extends Exception{
+//}
